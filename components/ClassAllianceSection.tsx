@@ -6,19 +6,19 @@ const tabsData: AllianceTab[] = [
     id: 'economic',
     title: 'Liên minh Kinh tế',
     content: 'Sự hợp tác chiến lược giữa công nhân, nông dân, trí thức và doanh nhân. Liên minh này nhằm mục đích thúc đẩy sản xuất, áp dụng tiến bộ khoa học và phát triển một nền kinh tế thị trường định hướng xã hội chủ nghĩa vững mạnh, đảm bảo sự thịnh vượng chung.',
-    image: 'https://picsum.photos/seed/vietnam-economy/800/600',
+    image: 'https://a.tcnn.vn/uploads/resources/hoainga/images/216e854e1c1543768b9e64c2a046ffcb_l.jpg',
   },
   {
     id: 'political',
     title: 'Liên minh Chính trị',
     content: 'Thống nhất dưới sự lãnh đạo của Đảng Cộng sản, liên minh này tạo thành nền tảng của nền dân chủ xã hội chủ nghĩa. Nó đảm bảo giai cấp công nhân và toàn thể nhân dân lao động nắm giữ quyền lực chính trị, góp phần vào sự ổn định và phát triển quốc gia.',
-    image: 'https://picsum.photos/seed/vietnam-government/800/600',
+    image: 'https://damrong.lamdong.dcs.vn/Portals/9/media/newsimage/1/-/0/1-04.png',
   },
   {
     id: 'cultural',
     title: 'Liên minh Văn hóa - Xã hội',
     content: 'Liên minh này nuôi dưỡng một xã hội kết hợp giữa truyền thống và đổi mới. Nó thúc đẩy giáo dục, bình đẳng và một bản sắc văn hóa phong phú, xây dựng một thế hệ công dân mới với những giá trị xã hội chủ nghĩa vững chắc và tình yêu sâu sắc đối với quốc gia.',
-    image: 'https://picsum.photos/seed/vietnam-culture/800/600',
+    image: 'https://media.hanamtv.vn/upload/image/202405/medium/100757_e3a588d128b3b693d40d6cc42a66aa72.jpg',
   },
 ];
 

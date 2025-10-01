@@ -6,31 +6,31 @@ const timelineData: TimelineEvent[] = [
     year: '1945',
     title: 'Cách mạng Tháng Tám',
     description: 'Cách mạng Tháng Tám đánh dấu một thời khắc quan trọng, dẫn đến việc tuyên bố độc lập và khai sinh ra nước Việt Nam Dân chủ Cộng hòa.',
-    image: 'https://picsum.photos/seed/august-revolution/500/300',
+    image: 'https://noibo.kiengiang.dcs.vn/uploads/news/2024_07/anh-2_1.jpg',
   },
   {
     year: '1975',
     title: 'Đại thắng Mùa xuân',
     description: 'Giải phóng hoàn toàn miền Nam và thống nhất đất nước, kết thúc hàng thập kỷ chiến tranh và mở ra một chương mới của hòa bình và tái thiết.',
-    image: 'https://picsum.photos/seed/saigon-liberation/500/300',
+    image: 'https://images.hcmcpv.org.vn/res/news/2022/04/30-04-2022-dai-thang-mua-xuan-1975-khai-hoan-ca-vang-mai-B79996EF.jpg',
   },
   {
     year: '1986',
     title: 'Đổi Mới: Giai đoạn chuyển đổi',
     description: 'Chính sách "Đổi Mới" được khởi xướng, đánh dấu sự khởi đầu chính thức của quá trình chuyển đổi sang nền kinh tế thị trường định hướng xã hội chủ nghĩa.',
-    image: 'https://picsum.photos/seed/doi-moi-vietnam/500/300',
+    image: 'https://file3.qdnd.vn/data/images/0/2025/01/29/upload_2176/dhvi.jpg?w=400',
   },
   {
     year: '2000s',
     title: 'Công nghiệp hóa',
     description: 'Một giai đoạn công nghiệp hóa và hiện đại hóa nhanh chóng, biến đổi nền kinh tế và xã hội, và hội nhập Việt Nam vào trường quốc tế.',
-    image: 'https://picsum.photos/seed/vietnam-industry/500/300',
+    image: 'https://static.tapchitaichinh.vn/images/upload/vantruongtc/09022021/kinh_te_viet_nam4663362_2682021.jpg',
   },
   {
     year: 'Hiện tại',
     title: 'Thống nhất Xã hội chủ nghĩa',
     description: 'Tiếp tục con đường xã hội chủ nghĩa, tập trung vào việc củng cố liên minh giai cấp, thúc đẩy công bằng xã hội và xây dựng một quốc gia thịnh vượng cho tất cả mọi người.',
-    image: 'https://picsum.photos/seed/vietnam-today/500/300',
+    image: 'https://file3.qdnd.vn/data/images/0/2023/11/05/upload_2324/vung-tin-vao-con-duong-di-len-chu-nghia-xa-hoi-o-viet-nam.jpg',
   },
 ];
 

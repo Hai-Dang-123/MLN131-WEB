@@ -6,37 +6,37 @@ const classData: ClassCardData[] = [
   {
     title: 'Giai cấp Công nhân',
     description: 'Lực lượng nòng cốt của công nghiệp, thúc đẩy sản xuất và tiến bộ công nghệ trong các nhà máy, xí nghiệp.',
-    image: 'https://picsum.photos/seed/vietnamese-workers/600/800',
+    image: 'https://media-cdn-v2.laodong.vn/storage/newsportal/2023/5/18/1194067/2-5.jpg',
     Icon: WorkersIcon,
   },
   {
     title: 'Giai cấp Nông dân',
     description: 'Người gìn giữ mảnh đất, đảm bảo an ninh lương thực quốc gia và bảo tồn truyền thống nông thôn.',
-    image: 'https://picsum.photos/seed/vietnamese-farmers/600/800',
+    image: 'https://tuyenquang.dcs.vn/Image/Large/202382113465_144897.jpg',
     Icon: FarmersIcon,
   },
   {
     title: 'Tầng lớp Trí thức',
     description: 'Động lực của sự đổi mới, giáo dục và phát triển văn hóa, dẫn dắt xã hội bằng tri thức.',
-    image: 'https://picsum.photos/seed/vietnamese-teacher/600/800',
+    image: 'https://a.tcnn.vn/uploads/resources/truonghq/images/7(2).jpg',
     Icon: IntellectualsIcon,
   },
   {
     title: 'Tầng lớp Doanh nhân',
     description: 'Những nhân tố năng động của tăng trưởng kinh tế, tạo ra cơ hội trong nền kinh tế thị trường định hướng xã hội chủ nghĩa.',
-    image: 'https://picsum.photos/seed/ho-chi-minh-city/600/800',
+    image: 'https://tttctt.1cdn.vn/2023/10/11/anh-4-4-.jpg',
     Icon: EntrepreneursIcon,
   },
   {
     title: 'Phụ nữ',
     description: 'Trụ cột của xã hội, cân bằng giữa truyền thống và hiện đại, đóng góp bình đẳng trong mọi lĩnh vực của cuộc sống.',
-    image: 'https://picsum.photos/seed/vietnamese-woman-aodai/600/800',
+    image: 'https://vwu.vn/documents/20182/1823217/small_10392.jpg',
     Icon: LotusIcon,
   },
   {
     title: 'Thế hệ trẻ',
     description: 'Tương lai tươi sáng của dân tộc, hiện thân của tinh thần cách mạng, sáng tạo và ý chí xây dựng chủ nghĩa xã hội.',
-    image: 'https://picsum.photos/seed/vietnamese-students/600/800',
+    image: 'https://vwu.vn/documents/20182/1823217/small_10392.jpg',
     Icon: StarIcon,
   },
 ];

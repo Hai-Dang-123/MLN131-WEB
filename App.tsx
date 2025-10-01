@@ -18,7 +18,7 @@ const App: React.FC = () => {
         <IntroductionSection />
         <ClassStructureSection />
         <ClassAllianceSection />
-        <PuzzleSection />
+        {/* <PuzzleSection /> */}
         <TimelineSection />
         <ConclusionSection />
       </main>
